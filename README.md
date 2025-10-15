@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm Srishanth 👋
 
-<!--
-**Srishanths812/Srishanths812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and driven student currently pursuing my studies at the **National Institute of Technology, Tiruchirappalli (NIT Trichy)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Tech Stack
+
+Here are the technologies and tools I work with:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgress,python,c,cpp" alt="My Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Python, C, C++" />
+  &nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
+
+##  Get In Touch
+
+* **Email:** srishanth0805@gmail.com
