@@ -1,6 +1,6 @@
-# Hi there! I'm Srishanth 👋
+# Hi! This is Srishanth Srishanth
 
-I'm a passionate and driven student currently pursuing my studies at the **National Institute of Technology, Tiruchirappalli (NIT Trichy)**.
+I'm a passionate and driven student currently pursuing my studies at the **National Institute of Technology, Tiruchirappalli **.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a passionate and driven student currently pursuing my studies at the **Natio
 Here are the technologies and tools I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgress,python,c,cpp" alt="My Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Python, C, C++" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,swift,python,c,cpp" alt="My Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Swift, Python, C, C++" />
   &nbsp;&nbsp;&nbsp;
 </p>
 
