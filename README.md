@@ -1,4 +1,4 @@
-# Hi! This is Srishanth Srishanth
+# Hi! This is Srishanth
 
 I'm a passionate and driven student currently pursuing my studies at the **National Institute of Technology, Tiruchirappalli **.
 
